@@ -1,0 +1,8 @@
+.products{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight:bold;
+    color: rgb(242, 4, 4);
+}
